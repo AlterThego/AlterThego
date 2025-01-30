@@ -9,58 +9,91 @@
   
   🔭 I'm currently working on **CGOB-MITD**
   
-  🌱 I'm currently learning **Laravel/PHP/Vue.js**
+  🌱 I'm currently learning **Laravel/PHP/Vue.js/Django**
   
   👯 I'm open to collaboration
   
 </div>
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<div align="center">
-  <h3>👨‍💻 Programming Languages</h3>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">👨‍💻 Programming Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🎨 Frontend Development</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+      </div>
+    </td>
+  </tr>
   
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🔨 Backend & Frameworks</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">💅 Frontend Frameworks</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </div>
+    </td>
+  </tr>
   
-  <h3>🎨 Frontend Development</h3>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🗄️ Databases</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🛠️ Development Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </div>
+    </td>
+  </tr>
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  
-  <h3>🔨 Backend Development & Frameworks</h3>
-  
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  
-  <h3>💅 Frontend Frameworks & Libraries</h3>
-  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  <h3>🗄️ Databases</h3>
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  
-  <h3>🛠️ Development Tools & Platforms</h3>
-  
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-  <h3>💼 Professional Tools</h3>
-  
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-</div>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">💼 Professional Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+        <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">📊 Business Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
+        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+        <img src="https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ERP" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🌟 Featured Projects</h2>
 
@@ -68,12 +101,21 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">EcoMetrics</h3>
+        <h3 align="center">CGOB-MITD</h3>
         <div align="center">
           <a href="YOUR_PROJECT_LINK" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=PVO-EcoMetrics&theme=tokyonight" width="400" alt="project-preview">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=CGOB-MITD&theme=tokyonight" width="400" alt="project-preview">
           </a>
-          <p><strong>LARAVEL, PHP, TAILWINDCSS</strong> - ECOMETRICS - Socio-Economic Profile and Inventory System for the Benguet Provincial Veterinary Office (BPVO)</p>
+          <p><strong>Laravel, PHP, Vue.js</strong> - Management Information System for tracking and monitoring activities.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">
+          <a href="YOUR_PROJECT_LINK" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=YOUR_REPO&theme=tokyonight" width="400" alt="project-preview">
+          </a>
+          <p><strong>Technologies Used</strong> - Brief project description goes here.</p>
         </div>
       </td>
     </tr>
@@ -90,11 +132,15 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodore-suaking-30b878333/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlterThego)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alterthego.github.io/)
-  
+  <a href="https://www.linkedin.com/in/theodore-suaking-30b878333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AlterThego">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://alterthego.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 <div align="center">
