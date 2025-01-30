@@ -71,7 +71,7 @@
         <h3 align="center">EcoMetrics</h3>
         <div align="center">
           <a href="YOUR_PROJECT_LINK" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=YOUR_REPO&theme=tokyonight" width="400" alt="project-preview">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=PVO-EcoMetrics&theme=tokyonight" width="400" alt="project-preview">
           </a>
           <p><strong>LARAVEL, PHP, TAILWINDCSS</strong> - ECOMETRICS - Socio-Economic Profile and Inventory System for the Benguet Provincial Veterinary Office (BPVO)</p>
         </div>
