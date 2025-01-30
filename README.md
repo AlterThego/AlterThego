@@ -104,9 +104,14 @@
         <h3 align="center">ECOMETRICS: SOCIO-ECONOMIC PROFILE AND INVENTORY SYSTEM OF BENGUET PROVINCIAL VETERINARY OFFICE</h3>
         <div align="center">
           <a href="https://github.com/AlterThego/PVO-EcoMetrics" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=PVO-EcoMetrics&theme=tokyonight" width="400" alt="project-preview">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlterThego&repo=PVO-EcoMetrics&theme=tokyonight"alt="project-preview">
           </a>
-          <p><strong>Technologies Used: LARAVEL, BLADE, PHP, TAILWINDCSS</strong> - EcoMetrics is a a digital platform for socio-economic profiling and inventory management.</p>
+          <div align="center">
+            <p><strong>Technologies Used: LARAVEL, BLADE, PHP, TAILWINDCSS</strong></p>
+          </div>
+          <div align="center">
+           <p> EcoMetrics is a a digital platform for socio-economic profiling and inventory management.</p>
+          </div>
         </div>
       </td>
     </tr>
